@@ -9,9 +9,9 @@ Passionate about Programming, Data Science and Machine Learning.
 ## 🚀 Skills
 
 - **Programming Languages:**
-  - Python ![Python Icon](images/python-logo.png)
-  - C ![C Icon](images/c-logo.png)
-  - C++ ![C++ Icon](images/cpp-logo.png)
+  - <img src="https://img.icons8.com/color/15/000000/python.png" alt="python"/> Python
+  - <img src="https://img.icons8.com/color/15/000000/c-programming.png" alt="c"/> C
+  - ![C++ Icon](images/cpp-logo.png) C++
   - Java ![Java Icon](images/java-logo.png)
   - HTML ![HTML Icon](images/html-logo.png)
   - CSS ![CSS Icon](images/css-logo.png)
