@@ -9,14 +9,14 @@ Passionate about Programming, Data Science and Machine Learning.
 ## 🚀 Skills
 
 - **Programming Languages:**
-  - <img src="https://img.icons8.com/color/15/000000/python.png" alt="python"/> Python
-  - <img src="https://img.icons8.com/color/15/000000/c-programming.png" alt="c"/> C
-  - ![C++ Icon](images/cpp-logo.png) C++
-  - Java ![Java Icon](images/java-logo.png)
-  - HTML ![HTML Icon](images/html-logo.png)
-  - CSS ![CSS Icon](images/css-logo.png)
-  - JavaScript ![JavaScript Icon](images/javascript-logo.png)
-  - SQL ![SQL Icon](images/sql-logo.png)
+  - <img src="imgs/python-logo.png" alt="Python Logo" height="15"> Python
+  - <img src="imgs/c-logo.png" alt="C Logo" height="15"> C
+  - <img src="imgs/cpp-logo.png" alt="Cpp Logo" height="15"> C++
+  - <img src="imgs/java-logo.png" alt="Java Logo" height="15"> Java
+  - <img src="imgs/html-logo.png" alt="HTML Logo" height="15"> HTML
+  - <img src="imgs/css-logo.png" alt="CSS Logo" height="15"> CSS
+  - <img src="imgs/javascript-logo.png" alt="JavaScript Logo" height="15"> JavaScript
+  - <img src="imgs/sql-logo.png" alt="SQL Logo" height="15"> SQL
 
 ## 🛠️ Data Science Projects
 
@@ -33,4 +33,9 @@ Passionate about Programming, Data Science and Machine Learning.
 
 ## 🔗 Connect with me
 
-[![LinkedIn](images/linkedin-icon.png)](linkedin.com/in/mahmoudmkhalil) [![Telegram](images/telegram-icon.png)](https://t.me/m94khalil)
+<a href="https://www.linkedin.com/in/mahmoudmkhalil">
+  <img src="imgs/linkedin-logo.png" alt="LinkedIn" height="20">
+</a> 
+<a href="https://t.me/m94khalil">
+  <img src="imgs/telegram-logo.png" alt="Telegram" height="20">
+</a>
