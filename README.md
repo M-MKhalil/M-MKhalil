@@ -4,7 +4,7 @@
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Data%20Scientist%20and%20Programmer;Devoted%20to%20continuous%20learning&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Machine%20Learning%20Engineer;Devoted%20to%20continuous%20learning&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p> 
 
 </div>
@@ -21,10 +21,10 @@
   - <img src="imgs/javascript-logo.png" alt="JavaScript Logo" height="15"> JavaScript
   - <img src="imgs/sql-logo.png" alt="SQL Logo" height="15"> SQL
 
-## 🛠️ Data Science Projects
+## 🛠️ Machine Learning Projects
 
 1. **Phishing Website Detection:**
-   - Developed and implemented machine learning algorithms (SVM, k-NN, Random Forest) to conduct a comprehensive analysis of phishing websites data.
+   - Developed and implemented machine learning algorithms (SVM, k-NN, Random Forest, XGBoost) to conduct a comprehensive analysis of phishing websites data.
 
 2. **Space Object Classification:**
    - Conducted in-depth analysis of space object light curve datasets.
