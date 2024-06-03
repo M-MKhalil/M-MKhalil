@@ -9,23 +9,19 @@
 
 </div>
 
-## 🚀 Skills
+👯 Looking to collaborate on Data, ML, LLMs
 
-- **Programming Languages:**
-  - <img src="imgs/python-logo.png" alt="Python Logo" height="15"> Python
-  - <img src="imgs/c-logo.png" alt="C Logo" height="15"> C
-  - <img src="imgs/html-logo.png" alt="HTML Logo" height="15"> HTML
-  - <img src="imgs/css-logo.png" alt="CSS Logo" height="15"> CSS
-  - <img src="imgs/javascript-logo.png" alt="JavaScript Logo" height="15"> JavaScript
-  - <img src="imgs/sql-logo.png" alt="SQL Logo" height="15"> SQL
+## 🚀 Programming Languages and Tools:
 
+<img src="imgs/tools.png" alt="Programming Languages and Tools" height="60">
+  
 ## 🛠️ Machine Learning Projects
 
-1. **[Evaluating the Credibility of Medical Videos Using LLMs:]**(https://github.com/mm-khalil1/Evaluate_Medical_Video_Credibility_Using_LLMs)
+1. [**Evaluating the Credibility of Medical Videos Using LLMs:**](https://github.com/mm-khalil1/Evaluate_Medical_Video_Credibility_Using_LLMs)
    - Curated and transcribed 458 medical educational videos, and assessed transcript credibility with 16 Large Language Models (LLMs).
    - Evaluated six prompt engineering techniques and compared model evaluations to human expert assessments, achieving a 15% improvement in model responses.
 
-2. **[Phishing Website Detection:]**(https://github.com/mm-khalil1/Detecting-Phishing-Websites/blob/main/phishingDetection.ipynb)
+2. [**Phishing Website Detection:**](https://github.com/mm-khalil1/Detecting-Phishing-Websites/blob/main/phishingDetection.ipynb)
    - Developed and implemented machine learning algorithms (SVM, k-NN, Random Forest, XGBoost) to detect phishing websites.
 
 3. **Space Object Classification:**
