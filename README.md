@@ -17,7 +17,7 @@
   
 ## 🛠️ Machine Learning Projects
 
-1. [**Evaluating the Credibility of Medical Videos Using LLMs:**](https://github.com/mm-khalil1/Evaluate-Medical-Video-Credibility-Using-LLMs)
+1. [**Evaluating the Credibility of Medical Videos Using LLMs:**](https://github.com/mm-khalil1/Evaluating-Medical-Videos-with-LLMs)
    - Curated and transcribed 458 medical educational videos, and assessed transcript credibility with 16 Large Language Models (LLMs).
    - Evaluated six prompt engineering techniques and compared model evaluations to human expert assessments, achieving a 15% improvement in model responses.
 
